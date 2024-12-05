@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lista - Sistema de Menções</title>
-    <link rel="stylesheet" href="/Css/lista.css">
+    <link rel="stylesheet" href="../public/css/lista.css">
 </head>
 <body>
     <div class="menu-container">
         <div class="div-img">
-            <img src="/Imagens/baner.png" alt="logoboneco">
+            <img src="../public/imgs/baner.png" alt="logoboneco">
         </div>
         
         <div class="menu-box">  

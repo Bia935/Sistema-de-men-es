@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Boletim</title>
-    <link rel="stylesheet" href="/Css/boletim.css">
+    <link rel="stylesheet" href="../public/css/boletim.css">
 </head>
 <body>
     <div class="boletim-container">
         <div class="div-img">
-            <img class="baner" src="/Imagens/baner.png" alt="logoboneco">
+            <img class="baner" src="../public/imgs/banner.png" alt="logoboneco">
         </div>
         
         <div class="boletim-box">  
